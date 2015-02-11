@@ -1,0 +1,359 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ch",
+				"CHOICE_SEXO	statement"
+			],
+			[
+				"b",
+				"br	module"
+			],
+			[
+				"Cand",
+				"CandidatoAdmin	class"
+			],
+			[
+				"C",
+				"Candidato"
+			],
+			[
+				"auto",
+				"autodiscover_modules	function"
+			],
+			[
+				"ad",
+				"admin	module"
+			],
+			[
+				"Pessoa",
+				"Pessoa	class"
+			],
+			[
+				"cla",
+				"class	New Class"
+			],
+			[
+				"mo",
+				"Model	class"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "core/models.py",
+			"settings":
+			{
+				"buffer_size": 1320,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ap0ca1ip53/Desenvolvimento/django1_7/lib/python3.4/site-packages/localflavor/br/br_states.py",
+			"settings":
+			{
+				"buffer_size": 851,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "core/admin.py",
+			"settings":
+			{
+				"buffer_size": 303,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Virtualenv/Python + Virtualenv.sublime-build",
+	"command_palette":
+	{
+		"height": 369.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"v",
+				"Virtualenv: Activate"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ap0ca1ip53/Desenvolvimento/django1_7/classificatorio",
+		"/home/ap0ca1ip53/Desenvolvimento/django1_7/classificatorio/classificatorio",
+		"/home/ap0ca1ip53/Desenvolvimento/django1_7/classificatorio/core",
+		"/home/ap0ca1ip53/Desenvolvimento/django1_7/classificatorio/core/migrations"
+	],
+	"file_history":
+	[
+		"/home/ap0ca1ip53/Desenvolvimento/django1_7/classificatorio/.gitignore",
+		"/home/ap0ca1ip53/.ssh/id_rsa.pub",
+		"/home/ap0ca1ip53/Desenvolvimento/django1_7/classificatorio/.git/COMMIT_EDITMSG",
+		"/home/ap0ca1ip53/Desenvolvimento/django1_7/classificatorio/classificatorio/settings.py",
+		"/home/ap0ca1ip53/Desenvolvimento/django1_7/lib/python3.4/site-packages/django/db/models/expressions.py",
+		"/home/ap0ca1ip53/Desenvolvimento/django1_7/lib/python3.4/site-packages/django/contrib/admin/__init__.py",
+		"/home/ap0ca1ip53/Desenvolvimento/django1_7/lib/python3.4/site-packages/django/utils/module_loading.py",
+		"/home/ap0ca1ip53/Desenvolvimento/django1_7/classificatorio/classificatorio.sublime-project",
+		"/home/ap0ca1ip53/.config/sublime-text-3/Packages/User/Python (Django).sublime-settings",
+		"/home/ap0ca1ip53/.config/sublime-text-3/Packages/Djaneiro/Settings/Python (Django).sublime-settings",
+		"/home/ap0ca1ip53/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/ap0ca1ip53/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/ap0ca1ip53/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/ap0ca1ip53/Desenvolvimento/django1_7/lib/python3.4/site-packages/django/contrib/__init__.py",
+		"/home/ap0ca1ip53/Desenvolvimento/django1_7/lib/python3.4/ntpath.py",
+		"/home/ap0ca1ip53/Desenvolvimento/django1_7/classificatorio/classificatorio.sublime-workspace",
+		"/home/ap0ca1ip53/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/home/ap0ca1ip53/.config/sublime-text-3/Packages/Virtualenv/Virtualenv.sublime-settings",
+		"/home/ap0ca1ip53/.config/sublime-text-3/Packages/Virtualenv/README.md"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "core/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1320,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1103,
+								1103
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/ap0ca1ip53/Desenvolvimento/django1_7/lib/python3.4/site-packages/localflavor/br/br_states.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 851,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "core/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 303,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								303,
+								303
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "classificatorio.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 293.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

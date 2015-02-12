@@ -26,7 +26,8 @@ class Pessoa(models.Model):
 	pess_Cidade = models.ForeignKey(Cidade, blank=True)
 	pess_SEXO = models.CharField(max_length=2, choices=CHOICE_SEXO)
 	pess_Email = models.EmailField()
-	pess_FoneResidencial = models.CharField(max_length=)
+	pess_FoneResidencial = models.CharField(max_length=11)
+	pess_Celular = models.CharField(max_length=11)
 
 	pess_CPF = models.CharField(max_length=11, blank=True)
 
